@@ -1,0 +1,63 @@
+{
+  "name": "Sarifood Indonesia - Madu Murni Asli Banjarnegara",
+  "short_name": "Sarifood",
+  "description": "Produsen dan distributor madu lebah alami murni terpercaya dari Mandiraja, Banjarnegara. Madu randu, madu sarang, propolis teruji lab.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["shopping", "food", "health"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Katalog Madu",
+      "short_name": "Katalog",
+      "description": "Lihat varian madu murni dan sarang",
+      "url": "/#produk",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Cek QR Validasi",
+      "short_name": "Validasi",
+      "description": "Verifikasi keaslian kode batch kemasan madu",
+      "url": "/validasi",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Edukasi & Blog",
+      "short_name": "Blog",
+      "description": "Baca artikel ilmiah dan ciri madu asli",
+      "url": "/blog",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ]
+}
