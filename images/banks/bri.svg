@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 38" fill="none">
+  <!-- BRI Icon -->
+  <rect x="4" y="4" width="30" height="30" rx="8" fill="#00529C"/>
+  <path d="M12 11h6.5c3.2 0 5.5 1.5 5.5 4 0 1.6-.9 2.9-2.3 3.5 1.8.6 2.8 2 2.8 3.9 0 2.8-2.4 4.6-6 4.6H12V11zm4.8 5.2c1.6 0 2.5-.7 2.5-1.9 0-1.1-.9-1.8-2.5-1.8h-1.8v3.7h1.8zm.5 7.4c1.8 0 2.9-.8 2.9-2.1 0-1.2-1.1-2-2.9-2h-2.3v4.1h2.3z" fill="#FFFFFF"/>
+  <path d="M22 23l4 4h-3.5l-3-3.2 2.5-.8z" fill="#F37021"/>
+  <!-- Text BRI -->
+  <text x="42" y="27" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="22" fill="#00529C" letter-spacing="1">BRI</text>
+  <text x="86" y="16" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="7" fill="#F37021">BANK</text>
+  <text x="86" y="24" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="7" fill="#00529C">RAKYAT</text>
+  <text x="86" y="31" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="7" fill="#00529C">INDONESIA</text>
+</svg>

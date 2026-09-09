@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 38" fill="none">
+  <!-- QRIS Emblem text -->
+  <text x="6" y="27" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="22" fill="#ED1C24" letter-spacing="1.5">QRIS</text>
+  <rect x="74" y="9" width="3" height="20" fill="#231F20"/>
+  <text x="82" y="18" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="7" fill="#231F20">QUICK RESPONSE</text>
+  <text x="82" y="26" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="7" fill="#ED1C24">CODE INDONESIA</text>
+</svg>

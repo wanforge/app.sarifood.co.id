@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 38" fill="none">
+  <!-- mandiri text -->
+  <text x="6" y="27" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="20" fill="#003D79" letter-spacing="-0.5">mandiri</text>
+  <!-- Gold wave ribbons -->
+  <path d="M88 12c4.5-5 12-5 17-1-4.5 4.5-12 4.5-17 1z" fill="#F9A01B"/>
+  <path d="M93 17c5-5 13-4.5 18 0-5 4-13 3.5-18 0z" fill="#FFC836"/>
+  <path d="M98 22c5.5-4 13-3 17 1.5-5 3.5-12.5 2.5-17-1.5z" fill="#003D79"/>
+</svg>

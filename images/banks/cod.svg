@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 38" fill="none">
+  <!-- Badge background -->
+  <rect x="4" y="4" width="34" height="30" rx="8" fill="#10B981"/>
+  <!-- Cash / Handshake Icon -->
+  <path d="M12 14h18v10H12z" stroke="#FFFFFF" stroke-width="2" rx="2"/>
+  <circle cx="21" cy="19" r="2.5" fill="#FFFFFF"/>
+  <path d="M15 14v-2a1 1 0 011-1h10a1 1 0 011 1v2" stroke="#FFFFFF" stroke-width="1.5"/>
+  <!-- Text COD -->
+  <text x="44" y="22" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="16" fill="#065F46" letter-spacing="1">COD</text>
+  <text x="44" y="30" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="8" fill="#047857">BAYAR DI TEMPAT</text>
+</svg>
