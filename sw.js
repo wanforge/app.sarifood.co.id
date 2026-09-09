@@ -1,16 +1,16 @@
 // Sarifood Service Worker - PWA Offline Caching
-const CACHE_NAME = 'sarifood-pwa-v1';
+const CACHE_NAME = 'sarifood-pwa-v2';
 const PRECACHE_ASSETS = [
   '/',
   '/index.html',
   '/validasi/',
   '/blog/',
   '/favicon.svg',
+  '/images/logo.webp',
   '/images/logo.png',
-  '/images/madu-sarang.jpg',
-  '/images/madu-300gr.jpg',
-  '/images/madu-125gr.png',
-  '/images/paket-md-herbal.jpg',
+  '/images/products/madu-sarang-250.webp',
+  '/images/products/madu-murni-125.webp',
+  '/images/products/sarifood-vco-250.webp',
   '/site.webmanifest'
 ];
 
